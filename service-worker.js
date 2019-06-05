@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/online-exam-dashboard-react-app/precache-manifest.f92b75a0ceed8dc5da90ab4c81cf61cb.js"
+  "/online-exam-dashboard-react-app/precache-manifest.ca97f9e8c4dc95679e7951f8d7e02bce.js"
 );
 
 self.addEventListener('message', (event) => {
