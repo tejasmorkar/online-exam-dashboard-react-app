@@ -1,0 +1,28 @@
+body{
+    overflow: hidden;
+}
+
+.app{
+    height: 100vh;
+
+    display: grid;
+    grid-template-columns: 15vw 85vw;
+    grid-template-areas: "app1 app2";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+

@@ -1,0 +1,8 @@
+.dashboard{
+    background: #eee;
+    grid-area: app2;
+
+    display: grid;
+    grid-template-rows: 10vh 90vh;
+    grid-template-areas: "dashboard1" "dashboard2";
+}

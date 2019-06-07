@@ -1,0 +1,11 @@
+.sign-in{
+    width: 50vw;
+    padding: 1em;
+    margin: 1em;
+}
+
+.error{
+    color: red !important;
+    border-color: red !important;
+    padding: 3px 10px;
+}

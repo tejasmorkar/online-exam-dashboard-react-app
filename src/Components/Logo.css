@@ -1,0 +1,26 @@
+.logo{
+    grid-area: sidepanel1;
+
+    background-color: rgba(32,35,42,1);
+    color: rgb(94,217,251);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Righteous', monospace;
+    font-size: 1.2em;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+
+    padding: 1em;
+}
+
+.logo-img{
+    height: 75px;
+    cursor: pointer;
+}
+
+.logo-text{
+    cursor: pointer;    
+}
+

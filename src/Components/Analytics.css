@@ -1,0 +1,19 @@
+.analytics{
+    grid-area: dashboard-content2;
+
+    display: flex;
+    flex: 1;
+    overflow: auto;
+}
+
+.analytics::-webkit-scrollbar { 
+    width: 0 !important
+}
+
+.analytics { 
+    overflow: -moz-scrollbars-none; 
+}
+
+.analytics { 
+    -ms-overflow-style: none; 
+}

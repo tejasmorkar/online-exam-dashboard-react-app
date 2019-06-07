@@ -1,0 +1,15 @@
+.dashboard-title{
+    grid-area: dashboard1;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Righteous', monospace;
+    font-size: 1.5em;
+    font-weight: bold;
+    background-color: #ffffff;
+}
+
+.brand-logo{
+    color: rgba(32,35,42,1) !important;
+}

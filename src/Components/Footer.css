@@ -1,0 +1,26 @@
+.footer{
+    grid-area: sidepanel3;
+
+    background-color: rgba(32,35,42,1);
+    color: #ffffff;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: 'Righteous', monospace;
+    font-size: 1.5em;
+    font-weight: bold;
+
+    padding: 1em;
+}
+
+.footer-item{
+    font-size: 0.5em;
+    margin: 1em;
+}
+
+.footer-item:hover{
+    color: rgb(94,217,251);
+    cursor: pointer;
+}
+
+

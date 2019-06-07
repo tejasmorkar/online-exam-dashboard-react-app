@@ -1,0 +1,24 @@
+.exam-cards-container{
+    grid-area: dashboard-content1;
+
+    display: flex;
+    flex: 1;
+    overflow: auto;
+}
+
+.exam-cards-container::-webkit-scrollbar { 
+    width: 0 !important
+}
+
+.exam-cards-container { 
+    overflow: -moz-scrollbars-none; 
+}
+
+.exam-cards-container { 
+    -ms-overflow-style: none; 
+}
+
+.exam-cards{
+    display: flex;
+}
+

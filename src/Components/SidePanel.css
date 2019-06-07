@@ -1,0 +1,39 @@
+.side-panel{
+    grid-area: app1;
+
+    display: grid;
+    grid-template-rows: 20vh 72vh 8vh;
+    grid-template-areas: "sidepanel1" "sidepanel2" "sidepanel3";
+}
+
+.nav{
+    grid-area: sidepanel2;
+
+    background-color: rgba(32,35,42,1);
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    font-family: 'Righteous', monospace;
+    font-size: 1.5em;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+
+    padding: 1em;
+}
+
+.nav-item{
+    margin: 0.5em;
+}
+
+.nav-item:hover{
+    color: rgb(94,217,251);
+    cursor: pointer;
+}
+
+.active{
+    color: rgb(94,217,251);
+}
+
+
