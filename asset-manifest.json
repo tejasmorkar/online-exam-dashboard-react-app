@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/online-exam-dashboard-react-app/static/css/main.0096458f.chunk.css",
-    "main.js": "/online-exam-dashboard-react-app/static/js/main.68467c98.chunk.js",
-    "main.js.map": "/online-exam-dashboard-react-app/static/js/main.68467c98.chunk.js.map",
+    "main.css": "/online-exam-dashboard-react-app/static/css/main.58176fb7.chunk.css",
+    "main.js": "/online-exam-dashboard-react-app/static/js/main.aa4eda7e.chunk.js",
+    "main.js.map": "/online-exam-dashboard-react-app/static/js/main.aa4eda7e.chunk.js.map",
     "runtime~main.js": "/online-exam-dashboard-react-app/static/js/runtime~main.9c750a4b.js",
     "runtime~main.js.map": "/online-exam-dashboard-react-app/static/js/runtime~main.9c750a4b.js.map",
-    "static/js/2.148429b2.chunk.js": "/online-exam-dashboard-react-app/static/js/2.148429b2.chunk.js",
-    "static/js/2.148429b2.chunk.js.map": "/online-exam-dashboard-react-app/static/js/2.148429b2.chunk.js.map",
+    "static/js/2.027b18a0.chunk.js": "/online-exam-dashboard-react-app/static/js/2.027b18a0.chunk.js",
+    "static/js/2.027b18a0.chunk.js.map": "/online-exam-dashboard-react-app/static/js/2.027b18a0.chunk.js.map",
     "index.html": "/online-exam-dashboard-react-app/index.html",
-    "precache-manifest.ca97f9e8c4dc95679e7951f8d7e02bce.js": "/online-exam-dashboard-react-app/precache-manifest.ca97f9e8c4dc95679e7951f8d7e02bce.js",
+    "precache-manifest.200300db5f1cff7dfa278ead6e69d433.js": "/online-exam-dashboard-react-app/precache-manifest.200300db5f1cff7dfa278ead6e69d433.js",
     "service-worker.js": "/online-exam-dashboard-react-app/service-worker.js",
-    "static/css/main.0096458f.chunk.css.map": "/online-exam-dashboard-react-app/static/css/main.0096458f.chunk.css.map",
+    "static/css/main.58176fb7.chunk.css.map": "/online-exam-dashboard-react-app/static/css/main.58176fb7.chunk.css.map",
     "static/media/logo.png": "/online-exam-dashboard-react-app/static/media/logo.18ea6b3b.png"
   }
 }
